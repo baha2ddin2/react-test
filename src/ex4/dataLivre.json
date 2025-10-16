@@ -1,0 +1,45 @@
+{
+    "livres":[
+        {
+            "titre":"reminders of Him: A Novel ",
+            "prix" : 90.97 ,
+            "url":"https://images-na.ssl-images-amazon.com/images/I/617uZq23IPL._AC_UL210_SR195,210_.jpg"
+        },
+        {
+            "titre":"reminders of Him: A Novel ",
+            "prix" : 102.5 ,
+            "url":"https://images-na.ssl-images-amazon.com/images/I/61QR7qoEYVL._AC_UL210_SR195,210_.jpg"
+        },
+        {
+            "titre":"The Butcher and The Wren: A Novel ",
+            "prix" : 78.96 ,
+            "url":"https://images-na.ssl-images-amazon.com/images/I/81O1oy0y9eL._AC_UL210_SR195,210_.jpg"
+        },
+        {
+            "titre":"Ugly Love: A Novel  ",
+            "prix" : 123.55 ,
+            "url":"https://images-na.ssl-images-amazon.com/images/I/61xkvfPVupL._AC_UL210_SR195,210_.jpg"
+        },
+        {
+            "titre":"Where the Crawdads Sing",
+            "prix" : 27.90  ,
+            "url":"https://images-na.ssl-images-amazon.com/images/I/61uiYWcEQGL._AC_UL210_SR195,210_.jpg"
+        },{
+            "titre":" November 9: A Novel ",
+            "prix" : 55.85  ,
+            "url":"https://images-na.ssl-images-amazon.com/images/I/8144Vic9C5L._AC_UL210_SR195,210_.jpg"
+        },{
+            "titre":"The Return of the Gods",
+            "prix" : 100.4 ,
+            "url":"https://images-na.ssl-images-amazon.com/images/I/81XQ1+piiiL._AC_UL210_SR195,210_.jpg"
+        },{
+            "titre":" I Love You to the Moon and Back ",
+            "prix" :100.4,
+            "url":"https://images-na.ssl-images-amazon.com/images/I/61clZgj1xZL._AC_UL210_SR195,210_.jpg"
+        },{
+            "titre":"All Good People Here: A Novel ",
+            "prix" : 34.78  ,
+            "url":"https://images-na.ssl-images-amazon.com/images/I/71RIWM0sv6L._AC_UL210_SR195,210_.jpg"
+        }
+    ]
+}

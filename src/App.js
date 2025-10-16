@@ -1,24 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import CalulPTTC from './ex1/calcul';
+import Ex1 from './ex3/methode 1/produits.jsx'
+import Ex2 from './ex3/methode 2/produits.jsx'
+import Ex3 from './ex3/methode 3/produits.jsx'
+import Ex4 from './ex4/Bibliotheque.jsx'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Ex4/>
   );
 }
 
