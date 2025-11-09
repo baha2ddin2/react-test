@@ -1,4 +1,4 @@
-export default function Produit ({produit}){
+export default function Produit ({produit,color}){
     return <div className="p">
         <img src={produit.thumbnail} alt={produit.title} />
         <h2>{produit.title}</h2>

@@ -1,0 +1,21 @@
+.menu {
+    background: blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    margin-bottom: 10px ;
+}
+.link {
+    text-decoration: none;
+    color:white;
+}
+.stagiers{
+    display: flex;
+    gap: 10px;
+}
+.sta{
+    border: 1px solid black;
+    width: 250px;
+    height: 250px;
+}

@@ -30,7 +30,7 @@ export default function Produits (){
         <div className='f'>
             {produits.map ((p)=>{
                 return(
-                    <div className='p'>
+                    <div key={p.id} className='p'>
                         <img src={p.thumbnail} alt={p.title} />
                         <h2>{p.title}</h2>
                         <h2>{p.price}</h2>

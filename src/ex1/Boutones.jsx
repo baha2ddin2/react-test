@@ -5,4 +5,4 @@ export default function Buttons(){
                     <button>initialiser</button>
                 </div>
             )
-        }
+}

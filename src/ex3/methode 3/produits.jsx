@@ -4,8 +4,8 @@ import '../style.css'
 export default function Produits(){
     return <div className='f'>
         {
-            data.prod.map(p=>{
-                return <Produit produit={p}/>
+            data.map(p=>{
+                return <Produit produit={p} color={"hi"}/>
             })
         }
     </div>

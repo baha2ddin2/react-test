@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "image":"photo1.jpg",
+        "nom":"Zaid",
+        "prenom":"Riyad",
+        "filiere":"TDI"
+
+
+    },
+{
+        "id":2,
+        "image":"photo2.jpg",
+        "nom":"Zaid",
+        "prenom":"Riyad",
+        "filiere":"TDI"
+
+
+    },
+    {
+        "id":3,
+        "image":"photo3.jpg",
+        "nom":"Zaid",
+        "prenom":"Riyad",
+        "filiere":"TDI"
+
+
+    }
+
+
+
+
+]
