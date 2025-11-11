@@ -13,11 +13,12 @@ import Api2 from './ex8/tp2'
 import Efm1 from './efm/ex1'
 import Efm2 from './efm/ex2'
 import Efm3 from './efm/ex3'
+import Test from './test/all'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-      <Efm3/>
+      <Test/>
   );
 }
 
