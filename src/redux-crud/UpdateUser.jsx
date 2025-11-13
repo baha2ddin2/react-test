@@ -10,6 +10,7 @@ export default function UpdateUser(){
     const [prenom, setPrenom]=useState(user.prenom)
     const dipatch =useDispatch()
     const navigate = useNavigate()
+
     const handelClick =()=>{
         dipatch(UpdateUserAction({
             id,

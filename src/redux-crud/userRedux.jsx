@@ -1,12 +1,9 @@
-import { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { DeleteUserAction } from "./action";
 import { Link } from "react-router-dom";
 
-export default function AddUserRedux(){
+export default function UserRedux(){
     const users = useSelector((state)=>state.users)
-    const [name, setName]= useState("")
-    const [email, setEmail]= useState("")
     const dispatch = useDispatch()
     const handelDelete = (id)=>{
         dispatch(DeleteUserAction(id))
