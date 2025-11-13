@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { addUserAction } from "./action";
 
 export default function AddUser(){
-    const count = useSelector((data)=>data.user.length)
+    const count = useSelector((data)=>data.users.length)
     const [name,setName]=useState("")
     const [email,setEmail]=useState("")
     const dispatch = useDispatch()

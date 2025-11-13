@@ -17,7 +17,7 @@ const reducer = (state = initialState, action) => {
             }
             return state
         case "Delete_user":
-            return { ...state, users: [...state.users.filter((u) => u.id !== - parseInt(action.payload))] }
+            return { ...state, users: [...state.users.filter((u) => u.id !==parseInt(action.payload))] }
         default:
             return state
     }

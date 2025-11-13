@@ -15,7 +15,7 @@ import Efm2 from './efm/ex2'
 import Efm3 from './efm/ex3'
 import Test from './test/all'
 import TestRedux from './redux/test'
-import ReduxCrud from './redux-crud/userRedux'
+import ReduxCrud from './redux-crud/crudReduxUser'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Provider } from 'react-redux';
 import { legacy_createStore } from 'redux';
